@@ -15,3 +15,14 @@ I'm currently building projects and expanding my knowledge in areas like network
 Specifically I am aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 Feel free to check out my repositories and connect with me as I continue this exciting journey!
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/mejdahlbo/Firewall-Exception-Added/tree/main">New Panel to Monitor Windows Firewall Exceptions Added Lab</a>|
+
+
+## Projects
+- <a href="https://github.com/mejdahlbo/Firewall-Exception-Added/tree/main">New Panel to Monitor Windows Firewall Exceptions Added Lab</a>
