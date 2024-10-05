@@ -1,7 +1,6 @@
 # Hello, I'm Bo
 <a href="https://www.linkedin.com/in/bomejdahl/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
 <br><br>
 I come from a strong customer service background, where I've honed my problem-solving skills and a deep understanding of how to assist and educate others.
 Now, I'm channeling that experience into cybersecurity, driven by a passion to help, protect, and educate people against cyber threats. 
