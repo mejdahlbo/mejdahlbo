@@ -17,12 +17,30 @@ Specifically I am aiming to join a Security Operations Center (SOC) as a Tier 1 
 Feel free to check out my repositories and connect with me as I continue this exciting journey!
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/mejdahlbo/Firewall-Exception-Added/tree/main">New Panel to Monitor Windows Firewall Exceptions Added Lab</a>|
+| SIEM Implementation and Panel Creation        | <a href="https://github.com/mejdahlbo/Splunk-Monitoring-Firewall-Exception-Changes">Splunk - Monitoring Firewall Exception Changes Lab</a>|
 
+# Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/Ironhack_Cybersecurity-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cisco_Junior_Cybersecurity_Analyst-blue?style=for-the-badge" />
+
+</div>
 
 ## Projects
-- <a href="https://github.com/mejdahlbo/Firewall-Exception-Added/tree/main">New Panel to Monitor Windows Firewall Exceptions Added Lab</a>
+- <a href="https://github.com/mejdahlbo/Firewall-Exception-Added/tree/main">Splunk-Monitoring-Firewall-Exception-Changes</a>
