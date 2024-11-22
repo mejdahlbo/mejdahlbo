@@ -44,4 +44,4 @@ Feel free to check out my repositories and connect with me as I continue this ex
 
 ## Projects
 - <a href="https://github.com/mejdahlbo/Firewall-Exception-Added/tree/main">Splunk-Monitoring-Firewall-Exception-Changes</a>
-- <a href="https://github.com/mejdahlbo/Metasploit-First-Pentest-Project-And-Report">Metasploit - First Penetration Testing Lab and Report</a>|
+- <a href="https://github.com/mejdahlbo/Metasploit-First-Pentest-Project-And-Report">Metasploit - First Penetration Testing Lab and Report</a>
