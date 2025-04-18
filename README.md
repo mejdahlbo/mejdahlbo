@@ -20,7 +20,7 @@ Feel free to check out my repositories and connect with me as I continue this ex
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Panel Creation        | <a href="https://github.com/mejdahlbo/Splunk-Monitoring-Firewall-Exception-Changes">Splunk - Monitoring Firewall Exception Changes Lab</a>|
-| SIEM Dashboard Creation | <a href="https://github.com/mejdahlbo/Splunk-SSH-Dashboard-Creation">Splunk - Monitoring SSH Connections Lab</a>|
+| SIEM SSH Dashboard Creation | <a href="https://github.com/mejdahlbo/Splunk-SSH-Dashboard-Creation">Splunk - Monitoring SSH Connections Lab</a>|
 | Metasploit - Pentest Project and Report       | <a href="https://github.com/mejdahlbo/Metasploit-First-Pentest-Project-And-Report">Metasploit - First Penetration Testing Lab and Report</a>|
 
 # Tools
