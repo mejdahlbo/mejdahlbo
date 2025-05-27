@@ -23,6 +23,7 @@ Feel free to check out my repositories and connect with me as I continue this ex
 | SIEM Dashboard for Monitoring Firewall Changes        | <a href="https://github.com/mejdahlbo/Splunk-Monitoring-Firewall-Exception-Changes">Splunk - Monitoring Firewall Exception Changes</a>|
 | SIEM SSH Dashboard Creation | <a href="https://github.com/mejdahlbo/Splunk-SSH-Dashboard-Creation">Splunk - Monitoring SSH Connections</a>|
 | SIEM Alert Creation | <a href="https://github.com/mejdahlbo/Walkthrough-Splunk-Alert-Creation">Splunk - Alert Creation</a>|
+| SIEM Report Creation | <a href="https://github.com/mejdahlbo/Splunk-Report">Splunk - Report Creation</a>|
 | Metasploit - Pentest Project and Report       | <a href="https://github.com/mejdahlbo/Metasploit-First-Pentest-Project-And-Report">Metasploit - First Penetration Testing Lab and Report</a>|
 
 # Tools
