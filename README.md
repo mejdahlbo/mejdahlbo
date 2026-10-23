@@ -19,6 +19,8 @@ Feel free to check out my repositories and connect with me as I continue this ex
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| MyDFIR 30-Day Microsoft Challenge: Microsoft Sentinel, KQL and Azure        | <a href="https://github.com/mejdahlbo/MyDFIR-30-Day-Microsoft-Challenge/blob/main/README.md">MyDFIR 30-Day Microsoft Challenge: Microsoft Sentinel, KQL and Azure
+</a>|
 | SIEM Windows Event Dashoard Creation        | <a href="https://github.com/mejdahlbo/Splunk-Windows-Event-Dashboard">Splunk - Windows Event Dashboard</a>|
 | SIEM Dashboard for Monitoring Firewall Changes        | <a href="https://github.com/mejdahlbo/Splunk-Monitoring-Firewall-Exception-Changes">Splunk - Monitoring Firewall Exception Changes</a>|
 | SIEM SSH Dashboard Creation | <a href="https://github.com/mejdahlbo/Splunk-SSH-Dashboard-Creation">Splunk - Monitoring SSH Connections</a>|
